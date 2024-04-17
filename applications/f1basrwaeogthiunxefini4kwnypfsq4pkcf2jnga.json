@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "ID": "f1basrwaeogthiunxefini4kwnypfsq4pkcf2jnga",
+  "Issue Number": "3",
+  "Client": {
+    "Name": "test",
+    "Region": "Afghanistan",
+    "Industry": "Life Science / Healthcare",
+    "Website": "houlixie.com",
+    "Social Media": "houlixie.com",
+    "Social Media Type": "Slack",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Project Id": "10",
+    "Brief history of your project and organization": "test",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "test",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "test",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Never",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1 to 1.5 years",
+    "In which geographies do you plan on making storage deals": "Greater China",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "200TiB",
+    "Single Size Dataset": "200TiB",
+    "Replicas": 5,
+    "Weekly Allocation": "200TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-04-17 02:56:14.140547027 UTC",
+    "Validated By": "Fatman13",
+    "Active": true,
+    "Updated At": "2024-04-17 02:56:55.277781029 UTC",
+    "Active Request ID": "28b99ccc-ea1f-4d60-ba6e-59f557a7835e",
+    "On Chain Address": "f1basrwaeogthiunxefini4kwnypfsq4pkcf2jnga",
+    "Multisig Address": "false",
+    "edited": null
+  },
+  "Allocation Requests": [
+    {
+      "ID": "28b99ccc-ea1f-4d60-ba6e-59f557a7835e",
+      "Request Type": "First",
+      "Created At": "2024-04-17 02:56:14.140552824 UTC",
+      "Updated At": "2024-04-17 02:56:14.140553676 UTC",
+      "Active": false,
+      "Allocation Amount": "32GiB",
+      "Signers": [
+        {
+          "Github Username": "Fatman13",
+          "Signing Address": "f1j3u7crhjzwb2cj5mq7vodlt4o66yoyci7lhcauy",
+          "Created At": "2024-04-17 02:56:52.376000000 UTC",
+          "Message CID": "bafy2bzacec4k5h6pfio6by5valdetxmf5vxx72cx7whygf4zktik3iwsr2vq6"
+        }
+      ]
+    }
+  ]
+}
