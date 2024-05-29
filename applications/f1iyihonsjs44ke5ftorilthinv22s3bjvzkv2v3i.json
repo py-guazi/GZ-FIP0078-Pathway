@@ -18,7 +18,7 @@
     "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
     "How do you plan to prepare the dataset": "We currently store our data on our own work computers, and on servers in the server room. In the case of data from the computers we will transfer it over the network, and in the case of data from the server we can do hard drive mailing",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "You can check out the WeChat video number, the name of the account is \"第二人生3D真人手办\".",
-    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[] I confirm",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
     "What is the expected retrieval frequency for this data": "Yearly",
     "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
     "In which geographies do you plan on making storage deals": "Greater China, North America",
