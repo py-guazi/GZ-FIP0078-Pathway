@@ -13,7 +13,7 @@
   },
   "Project": {
     "Brief history of your project and organization": "The Second Life Universe Block is a digital hipster block with 3D printing and digital twins as the underlying technology, and a collection of 3D-printed real-life artefacts, 3D-printed coffee, and meta-universe experiences. Embrace the future, private ordering, self-realisation, and one-click construction of the second life of real human beings.",
-    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "For each 3D printed model, we need to take high-precision photos of the 360-degree panorama. The production photos for one model are up to tens of thousands of photos, and we will model the model in 3D. We need to store these photos, models and other data",
     "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
     "How do you plan to prepare the dataset": "We currently store our data on our own work computers, and on servers in the server room. In the case of data from the computers we will transfer it over the network, and in the case of data from the server we can do hard drive mailing",
