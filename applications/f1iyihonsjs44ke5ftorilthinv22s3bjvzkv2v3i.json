@@ -38,9 +38,9 @@
     "State": "Granted",
     "Validated At": "2024-05-31 00:51:28.048730439 UTC",
     "Validated By": "Fatman13",
-    "Active": true,
-    "Updated At": "2024-05-31 00:52:30.047563063 UTC",
-    "Active Request ID": "4ff9c335-fc91-4fd2-90e3-b5492532db0a",
+    "Active": false,
+    "Updated At": "2024-06-10 13:00:03.712944135 UTC",
+    "Active Request ID": "",
     "On Chain Address": "f1iyihonsjs44ke5ftorilthinv22s3bjvzkv2v3i",
     "Multisig Address": "false",
     "edited": false
