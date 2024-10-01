@@ -35,11 +35,11 @@
     "Weekly Allocation": "3PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-10-01 13:34:46.830080059 UTC",
     "Validated By": "Fatman13",
     "Active": true,
-    "Updated At": "2024-10-01 13:34:46.830083922 UTC",
+    "Updated At": "2024-10-01 13:36:20.986922043 UTC",
     "Active Request ID": "37e208bd-eb79-470c-9871-9c8ba9abbc8b",
     "On Chain Address": "f1tjlxww42udm6sapwprmiue62lwwuknfsgorgugi",
     "Multisig Address": "true",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-10-01 13:34:46.830086174 UTC",
       "Updated At": "2024-10-01 13:34:46.830087392 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "350TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "Fatman13",
+          "Signing Address": "f1j3u7crhjzwb2cj5mq7vodlt4o66yoyci7lhcauy",
+          "Created At": "2024-10-01 13:36:18.015000000 UTC",
+          "Message CID": "bafy2bzaceawmvleyfjqzhxxjudoymc2y2sodeoxmb52plnuksdegrrjesqgfq"
+        }
+      ]
     }
   ]
 }
