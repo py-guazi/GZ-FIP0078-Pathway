@@ -36,11 +36,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2024-10-01 13:34:46.830080059 UTC",
+    "Validated At": "2024-10-02 14:19:45.419935447 UTC",
     "Validated By": "Fatman13",
     "Active": true,
-    "Updated At": "2024-10-01 13:36:20.986922043 UTC",
-    "Active Request ID": "37e208bd-eb79-470c-9871-9c8ba9abbc8b",
+    "Updated At": "2024-10-02 14:22:32.755192145 UTC",
+    "Active Request ID": "50174766-6ae1-44ee-9de4-f0dd8e75afea",
     "On Chain Address": "f1tjlxww42udm6sapwprmiue62lwwuknfsgorgugi",
     "Multisig Address": "true",
     "edited": false
@@ -59,6 +59,22 @@
           "Signing Address": "f1j3u7crhjzwb2cj5mq7vodlt4o66yoyci7lhcauy",
           "Created At": "2024-10-01 13:36:18.015000000 UTC",
           "Message CID": "bafy2bzaceawmvleyfjqzhxxjudoymc2y2sodeoxmb52plnuksdegrrjesqgfq"
+        }
+      ]
+    },
+    {
+      "ID": "50174766-6ae1-44ee-9de4-f0dd8e75afea",
+      "Request Type": "Refill",
+      "Created At": "2024-10-02 14:19:45.419945843 UTC",
+      "Updated At": "2024-10-02 14:19:45.419946871 UTC",
+      "Active": false,
+      "Allocation Amount": "768TiB",
+      "Signers": [
+        {
+          "Github Username": "Fatman13",
+          "Signing Address": "f1j3u7crhjzwb2cj5mq7vodlt4o66yoyci7lhcauy",
+          "Created At": "2024-10-02 14:21:44.143000000 UTC",
+          "Message CID": "bafy2bzacec3yv6iifaim4iyt2ufmqenvg37psfc33tlzumbgx7fobgln6avf6"
         }
       ]
     }
